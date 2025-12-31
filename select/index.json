@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Daybreak Frontline (Acoustic Remix)",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-31T04:31:47.112040Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daybreak Frontline (Acoustic Remix)",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Daybreak_Frontline_(Acoustic_Remix)_Orangestar.txt"
+    }
+  ]
+}
